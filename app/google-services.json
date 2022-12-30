@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "955247015522",
+    "project_id": "travel-bliss-93744",
+    "storage_bucket": "travel-bliss-93744.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955247015522:android:c161962e13aefeb020833b",
+        "android_client_info": {
+          "package_name": "com.example.travelbliss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955247015522-skbk69t085ijif8ntsanjeubmqkao550.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1OySZMWtooIAHNnQ3MrV476-L2JX39hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955247015522-skbk69t085ijif8ntsanjeubmqkao550.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
