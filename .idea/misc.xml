@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable-xxhdpi/gradient_back1.xml" value="0.2555" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable-xxhdpi/ic_baseline_arrow_back_24.xml" value="0.2555" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable-xxhdpi/ic_baseline_delete_24.xml" value="0.2555" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable/add_wish.xml" value="0.201" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable/back.xml" value="0.2145" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable/back2.xml" value="0.2555" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable/button_back.xml" value="0.2145" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable/button_login.xml" value="0.2555" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable/camera.xml" value="0.2145" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable/collbackshape.xml" value="0.2555" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable/cus_bt.xml" value="0.201" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable/diagram.xml" value="0.121" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable/down_back.xml" value="0.201" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable/gradient_back.xml" value="0.2145" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.2145" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable/ic_baseline_logout_24.xml" value="0.1455" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable/line.xml" value="0.2555" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable/login_back.xml" value="0.2555" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable/re_back.xml" value="0.201" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable/round_bg.xml" value="0.2145" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable/round_bg1.xml" value="0.2555" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable/round_bg2.xml" value="0.2145" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable/round_border.xml" value="0.121" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable/search_bar_back.xml" value="0.201" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable/selector_wishlist_item.xml" value="0.1455" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable/top_main.xml" value="0.201" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable/wish_no.xml" value="0.1455" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/drawable/wish_yes.xml" value="0.248" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/layout/activity_app_info.xml" value="0.25" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/layout/activity_home_page.xml" value="0.2359375" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/layout/activity_signup.xml" value="0.2359375" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/layout/fragment_homefrag.xml" value="0.25" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/layout/fragment_profilefrag.xml" value="0.2359375" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/layout/fragment_rv_item_detail.xml" value="0.1601775956284153" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/layout/fragment_wishlistfrag.xml" value="0.25" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/layout/ic_baseline_delete_24.xml" value="0.25" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/layout/item_design.xml" value="0.25" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/layout/list_item.xml" value="0.25" />
+        <entry key="..\:/Users/Yashraj/AndroidStudioProjects/version1/app/src/main/res/menu/bottom_nav.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

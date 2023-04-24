@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TravelBliss</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="where_do_you_want_to_go">Where Do You Want To Go?</string>
+    <string name="privacy">Privacy</string>
+    <string name="app_settings">App settings</string>
+    <string name="app_info1">     TravelBliss is an Android application designed to simplify and enhance the travel experience of users. The app provides a comprehensive travel management system that allows users to plan, organize and execute their travel plans seamlessly.\n     The app features a user-friendly interface that enables users to search for and book flights, hotels and rental cars from various providers. It also includes a trip planner that helps users create customized itineraries for their travels, including activities, landmarks, and events.\n     The app is designed with the latest user experience and user interface design principles.\nDesigned by : Suyash Neware\nDeveloped by : Yashraj Patil and Sanket Chaudhari.</string>
+    <string name="app_info">App info</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="made_with_bliss">Made with Bliss</string>
+    <string name="travelbliss">TravelBliss</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+
+</resources>

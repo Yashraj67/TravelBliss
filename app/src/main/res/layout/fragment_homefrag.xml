@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/backf"
+    tools:context=".homefrag">
+
+    <View
+        android:id="@+id/topview"
+        android:layout_width="match_parent"
+        android:layout_height="144dp"
+        android:background="@drawable/top_main"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/progress_loader_animation"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:visibility="visible"
+        app:lottie_autoPlay="true"
+        app:lottie_fileName="travel.json"
+        app:lottie_loop="true" />
+
+
+    <androidx.appcompat.widget.SearchView
+        android:id="@+id/sv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="@drawable/search_bar_back"
+        android:iconifiedByDefault="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:defaultQueryHint="Where do you want to go?"
+        app:layout_constraintTop_toTopOf="parent"
+        />
+
+    <LinearLayout
+        android:id="@+id/ll1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toBottomOf="@id/sv"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="25dp">
+
+        <ImageView
+            android:id="@+id/explore"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_baseline_travel_explore"
+            />
+        <ImageView
+            android:id="@+id/beach"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_beaches_vec"
+            />
+        <ImageView
+            android:id="@+id/metro"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_hotels_vec"
+            />
+        <ImageView
+            android:id="@+id/forest"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_forest_vec"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="3dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        app:layout_constraintTop_toBottomOf="@id/ll1">
+
+        <ImageView
+            android:id="@+id/explorel"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="5dp"
+            android:src="@drawable/img_3"
+            android:visibility="visible"
+            />
+        <ImageView
+            android:id="@+id/beachl"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="5dp"
+            android:src="@drawable/img_3"
+            android:visibility="invisible"
+            />
+        <ImageView
+            android:id="@+id/metrol"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="5dp"
+            android:layout_marginTop="2dp"
+            android:src="@drawable/img_3"
+            android:visibility="invisible"
+            />
+        <ImageView
+            android:id="@+id/forestl"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="5dp"
+            android:src="@drawable/img_3"
+            android:visibility="invisible"
+            />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvHey"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:fontFamily="@font/display_medium"
+        android:text="Hi , What are you exploring today?"
+        android:textColor="#174D4B"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/topview" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvData"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tvHey"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
