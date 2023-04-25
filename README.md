@@ -12,7 +12,7 @@ Figma link - https://www.figma.com/file/eaqvC2FNmDRcvCE0xv0ian/TravelBliss?node-
 
 
 
-**Coding Part : **
+**Coding Part :**
 
 
 **Frontend -** 
